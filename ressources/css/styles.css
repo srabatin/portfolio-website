@@ -1,0 +1,13 @@
+html {
+  Font-Family: 'Cabin', Sans-Serif;
+  Font-Size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  Font-Family: 'Roboto Condensed', Sans-Serif;
+  Font-Size: 35px;
+}
+
+.nav-menu li {
+  display: inline;
+}
